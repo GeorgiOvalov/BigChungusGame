@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Big Chungus PacMan</string>
+    <string name="points">Points:</string>
+    <string name="level">Level:</string>
+    <string name="action_settings">Settings</string>
+    <string name="newgame">New Game</string>
+    <string name="continuegame">Continue Game</string>
+    <string name="pausegame">Pause Game</string>
+</resources>
